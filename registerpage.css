@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(to bottom right,#42f5e3,#42f587);
+    height:100vh
+}
+
+.one{
+    font-family: cursive;
+    margin-bottom: 50px;
+    color:#42f5e3;
+}
+.container-1{
+    border:solid;
+    width:40%;
+    text-align: center;
+    position:relative;
+    left: 27%;
+    top:25%;
+    padding:30px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom right,#193054,#a358a1);
+
+
+}
+
+td{
+    font-size: 22px;
+    color:aliceblue;
+}
+table{
+    margin-left:90px;
+}
+
+.register_button{
+    background-color: #0fdbee;
+    font-family:cursive;
+    margin:10px;
+    margin-left:37%;
+    padding:1px;
+    border-radius:5px;
+    width:80px;
+    font-size:15px;
+}
+
+.button_login{
+    background-color: #42f587;
+    font-family:cursive;
+    margin:5px;
+    padding:1px;
+    border-radius:5px;
+    width:80px;
+    font-size:15px;
+}
+a{
+    text-decoration:none;
+}
